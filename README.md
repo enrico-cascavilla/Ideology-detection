@@ -145,8 +145,8 @@ Get the quotes, scrapes the quotes, dealing with different names for the same pe
 
 ## Summary and Conclusion
 
-- [Walkthrough the project](Walkthrough.ipynb)
-- [Future implementations and Conclusions](Conclusions.ipynb)
+- [Walkthrough the project](Walkthrough.md)
+- [Future implementations and Conclusions](Conclusions.md)
 - [Slide for the presentation](Presentation.pdf)
 
 
