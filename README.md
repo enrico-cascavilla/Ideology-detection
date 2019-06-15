@@ -26,10 +26,7 @@ Recently everyone saw what probably will be the future of political campaign wit
 
 According to Wikipedia, we have almost 20 different macro-ideology (https://en.wikipedia.org/wiki/List_of_political_ideologies). The most common way to visualize the political spectrum is a 2-D dimension graph.
 
-
-
-
-<img src="Pic/2d-political-spectrum.png" style="width: 500px;" align="center"/> 
+<img src="Pic/2d-political-spectrum.png" alt="Drawing" style="width: 500px;"/> 
 
 The Left-Right spectrum on the x-axis, and the Freedom-Authority on the y-axis. For this project we choose to identify only the Left-Right (x-axis). So the bias of every person will be projected on the x-axis, in only 1-D.
 
@@ -145,8 +142,8 @@ Get the quotes, scrapes the quotes, dealing with different names for the same pe
 
 ## Summary and Conclusion
 
-- [Walkthrough the project](Walkthrough.md)
-- [Future implementations and Conclusions](Conclusions.md)
+- [Walkthrough the project](Walkthrough.ipynb)
+- [Future implementations and Conclusions](Conclusions.ipynb)
 - [Slide for the presentation](Presentation.pdf)
 
 
