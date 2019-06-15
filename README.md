@@ -29,7 +29,7 @@ According to Wikipedia, we have almost 20 different macro-ideology (https://en.w
 
 
 
-<img src="Pic/2d-political-spectrum.png" alt="Drawing" style="width: 500px;" align="center"/> 
+<img src="Pic/2d-political-spectrum.png" style="width: 500px;" align="center"/> 
 
 The Left-Right spectrum on the x-axis, and the Freedom-Authority on the y-axis. For this project we choose to identify only the Left-Right (x-axis). So the bias of every person will be projected on the x-axis, in only 1-D.
 
