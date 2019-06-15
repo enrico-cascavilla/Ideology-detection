@@ -29,11 +29,11 @@ According to Wikipedia, we have almost 20 different macro-ideology (https://en.w
 
 
 
-<img src="Pic/2d-political-spectrum.png"> 
+<img src="Pic/2d-political-spectrum.png" alt="Drawing" style="width: 500px;"/> 
 
 The Left-Right spectrum on the x-axis, and the Freedom-Authority on the y-axis. For this project we choose to identify only the Left-Right (x-axis). So the bias of every person will be projected on the x-axis, in only 1-D.
 
-<img src="Pic/left-right.png" alt="Drawing" style="width: 700px;"/>
+<img src="Pic/left-right.png" alt="Drawing" style="width: 500px;"/>
 
 
 #### The Data | Biased People and Criteria
@@ -145,6 +145,11 @@ Get the quotes, scrapes the quotes, dealing with different names for the same pe
 
 ## Summary and Conclusion
 
-- [Walkthrough the project](Walkthrough.md)
-- [Future implementations and Conclusions](Conclusions.md)
+- [Walkthrough the project](Walkthrough.ipynb)
+- [Future implementations and Conclusions](Conclusions.ipynb)
 - [Slide for the presentation](Presentation.pdf)
+
+
+```python
+
+```
