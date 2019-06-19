@@ -9,7 +9,7 @@ Most of the person has a political bias. Often their sentences too. What if we d
 ## Introduction
 
 Everyone has always referred to this project as a political project. But for me, it's mainly a philosophical project. In fact, it is a problem on the true meaning of a writing and on the intrinsic meaning of Truth.
-Truth has always been an important topic in human history, in any aspect of knowledge. From Math to Literature, from physics to Art. In language and in political language, probably even more. 
+Truth has always been an important topic in human history, in any aspect of knowledge. From Math to Literature, from physics to Art. In language and in political language, probably even more.
 
 Already 2400 years ago, in Athens, rhetoric started to be an important aspect of political life in the Polis. Socrates, one of the most important philosopher from ancient Greek, had a very harsh debate with the sophists. He described them as Prostitutes of the language. He, in fact, accused them to manipulate people thanks to their debating and dialectic skills. In politics, language is crucial.
 
@@ -26,7 +26,7 @@ Recently everyone saw what probably will be the future of political campaign wit
 
 According to Wikipedia, we have almost 20 different macro-ideology (https://en.wikipedia.org/wiki/List_of_political_ideologies). The most common way to visualize the political spectrum is a 2-D dimension graph.
 
-<img src="Pic/2d-political-spectrum.png" alt="Drawing" style="width: 400px;"/> 
+<img src="Pic/2d-political-spectrum.png" alt="Drawing" style="width: 400px;"/>
 
 The Left-Right spectrum on the x-axis, and the Freedom-Authority on the y-axis. For this project we choose to identify only the Left-Right (x-axis). So the bias of every person will be projected on the x-axis, in only 1-D.
 
@@ -81,7 +81,7 @@ David Goodhart, Ben Shapiro, Jared Taylor, David Duke, Matthew Goodwin, Eric Kau
 
 ---------------------------------------------------------------------------------------------------------------------
 
-NB: Many of the people from the lists are not in the Database. The names come from my research following the criteria. I made the list before I took the data and it supposed to provide also for Twitter Database, which I couldn't persuade until the end, for this project. It will be probably part of future implementations. 
+NB: Many of the people from the lists are not in the Database. The names come from my research following the criteria. I made the list before I took the data and it supposed to provide also for Twitter Database, which I couldn't persuade until the end, for this project. It will be probably part of future implementations.
 
 #### The Data | Dictionary
 
@@ -141,8 +141,8 @@ Get the quotes, scrapes the quotes, dealing with different names for the same pe
 
 ## Summary and Conclusion
 
-- [Walkthrough the project](Walkthrough.ipynb)
-- [Future implementations and Conclusions](Conclusions.ipynb)
+- [Walkthrough the project](Walkthrough.md)
+- [Future implementations and Conclusions](Conclusions.md)
 - [Slide for the presentation](Presentation.pdf)
 
 
