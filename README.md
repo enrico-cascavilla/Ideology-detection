@@ -99,6 +99,8 @@ The evaluation has 2 steps. The first one comes from a standard random train/tes
 
 Get the quotes, scrapes the quotes, dealing with different names for the same person, dealing with duplicates and quote in the quote.
 
+- [The entire Database](https://raw.githubusercontent.com/enrico-cascavilla/Ideology-detection/master/database.csv)
+
 - [Left scraping / cleaning](DataBase/1_Left/goodreads/quotes_left.ipynb#Left-Scraping-and-cleaning)
 
 - [Centre Left scraping / cleaning](DataBase/2_Centre_Left/goodreads/quotes_centre_left.ipynb#Centre-Left-Scraping-and-cleaning)
